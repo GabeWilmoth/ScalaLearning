@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b8b3ba3b-bebc-46c8-8938-d7f90f8d9519" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lectures/part1basics/Functions.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/lectures/part1basics/Functions.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lectures/part1basics/Test.scala" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +39,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Functions">
+  <component name="RunManager" selected="Application.Recursion">
     <configuration name="Expressions" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="lectures.part1basics.Expressions" />
       <module name="UdemyCourse" />
@@ -69,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaPlayground" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="playground.JavaPlayground" />
+    <configuration name="Recursion" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lectures.part1basics.Recursion" />
       <module name="UdemyCourse" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="playground.*" />
+          <option name="PATTERN" value="lectures.part1basics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +107,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Recursion" />
         <item itemvalue="Application.Functions" />
         <item itemvalue="Application.Expressions" />
         <item itemvalue="Application.ValuesVariablesTypes" />
         <item itemvalue="Application.ScalaPlayground" />
-        <item itemvalue="Application.JavaPlayground" />
       </list>
     </recent_temporary>
   </component>
@@ -145,45 +142,45 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="860" y="64" key="FileChooserDialogImpl.inPresentationMode/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1590376867906" />
-    <state width="1234" height="209" key="GridCell.Tab.0.bottom" timestamp="1590377303094">
+    <state width="2517" height="209" key="GridCell.Tab.0.bottom" timestamp="1591046717949">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state width="1234" height="209" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1590376737292">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state width="1234" height="209" key="GridCell.Tab.0.bottom.inPresentationMode/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1590376737292" />
-    <state width="1234" height="209" key="GridCell.Tab.0.bottom/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1590377303094" />
-    <state width="1234" height="209" key="GridCell.Tab.0.center" timestamp="1590377303094">
+    <state width="2517" height="209" key="GridCell.Tab.0.bottom/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1591046717949" />
+    <state width="2517" height="209" key="GridCell.Tab.0.center" timestamp="1591046717949">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state width="1234" height="209" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1590376737292">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state width="1234" height="209" key="GridCell.Tab.0.center.inPresentationMode/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1590376737292" />
-    <state width="1234" height="209" key="GridCell.Tab.0.center/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1590377303094" />
-    <state width="1234" height="209" key="GridCell.Tab.0.left" timestamp="1590377303094">
+    <state width="2517" height="209" key="GridCell.Tab.0.center/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1591046717949" />
+    <state width="2517" height="209" key="GridCell.Tab.0.left" timestamp="1591046717949">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state width="1234" height="209" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1590376737292">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state width="1234" height="209" key="GridCell.Tab.0.left.inPresentationMode/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1590376737292" />
-    <state width="1234" height="209" key="GridCell.Tab.0.left/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1590377303094" />
-    <state width="1234" height="209" key="GridCell.Tab.0.right" timestamp="1590377303094">
+    <state width="2517" height="209" key="GridCell.Tab.0.left/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1591046717949" />
+    <state width="2517" height="209" key="GridCell.Tab.0.right" timestamp="1591046717949">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state width="1234" height="209" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1590376737292">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state width="1234" height="209" key="GridCell.Tab.0.right.inPresentationMode/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1590376737292" />
-    <state width="1234" height="209" key="GridCell.Tab.0.right/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1590377303094" />
+    <state width="2517" height="209" key="GridCell.Tab.0.right/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1591046717949" />
     <state x="1421" y="166" key="SettingsEditor" timestamp="1590356482411">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1421" y="166" key="SettingsEditor/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1590356482411" />
-    <state x="1615" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1590367637699">
+    <state x="1616" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1591041887947">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="1615" y="344" key="com.intellij.ide.util.TipDialog/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1590367637699" />
+    <state x="1616" y="344" key="com.intellij.ide.util.TipDialog/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1591041887947" />
   </component>
 </project>
