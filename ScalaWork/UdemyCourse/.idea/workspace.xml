@@ -138,6 +138,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1010" y="275" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1591057548884">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1010" y="275" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.2560.1040/-1920.0.1920.1040@0.0.2560.1040" timestamp="1591057548884" />
     <state x="860" y="64" key="FileChooserDialogImpl.inPresentationMode" timestamp="1590376867906">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
